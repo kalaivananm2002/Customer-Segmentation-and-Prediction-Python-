@@ -1,4 +1,4 @@
-# Customer-Segmentation-and-Prediction-Python-
+#  reliance mall Customer-Segmentation-and-Prediction-Python-
 Customer Segmentation and Prediction using Python. The project includes data cleaning, EDA, clustering to segment customers based on behavior, and a predictive model to estimate future outcomes, supporting data-driven marketing and business development
 # Project Overview
 This project focuses on segmenting customers based on purchasing behavior and predicting future buying patterns using Python. The objective is to understand customer groups, analyze behavior patterns, and support data-driven marketing and business decisions.
